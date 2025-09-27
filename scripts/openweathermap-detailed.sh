@@ -41,8 +41,8 @@ get_icon() {
     echo $icon
 }
 
-KEY="f6897419964884252cb330499abccbd1"
-CITY="2646384"
+KEY="enter your api key here"
+CITY="enter city here"
 UNITS="metric"
 SYMBOL="°"
 
