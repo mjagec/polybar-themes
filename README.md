@@ -9,11 +9,16 @@ A curated collection of personal Polybar configuration themes, refined over time
 > *"Polybar aims to help users build beautiful and highly customizable status bars for their desktop environment, without the need of a black belt in shell scripting."*  
 > – [Polybar Docs](https://github.com/polybar/polybar)
 
-## 🎨 Featured Themes
-- **Laptop Minimalist**: Compact layout for on-the-go—CPU, memory, battery, and Spotify glances. Perfect for ultrabooks.
-- **Ultrawide Productivity**: Expanded modules for multi-monitor chaos—weather feeds, scrolling workspaces, and system stats at a glance.
+## 🎨 Configurations
+## Themes Included
 
-Each theme includes commented `config.ini` files, launch scripts, and module snippets for easy adaptation.
+📁 [polybar-configs/Dracula](polybar-configs/Dracula)    
+
+📁 [polybar-configs/Gunmetal](polybar-configs/Gunmetal) 
+
+📁 [polybar-configs/Solarized](polybar-configs/Solarized)       
+
+📁 [polybar-configs/Dark-platinum](polybar-configs/Dark-platinum)     
 
 ## 📸 Screenshots
 <img width="1710" height="719" alt="image" src="https://github.com/user-attachments/assets/fc14262d-3c90-4a1d-809c-1dc25f3d4316"/>
