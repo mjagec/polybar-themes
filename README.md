@@ -9,9 +9,7 @@ A curated collection of personal Polybar configuration themes, refined over time
 > *"Polybar aims to help users build beautiful and highly customizable status bars for their desktop environment, without the need of a black belt in shell scripting."*  
 > – [Polybar Docs](https://github.com/polybar/polybar)
 
-## 🎨 Configurations
-## Themes Included
-
+## ⚙️ Configurations
 📁 [polybar-configs/Dracula](polybar-configs/Dracula)    
 
 📁 [polybar-configs/Gunmetal](polybar-configs/Gunmetal) 
@@ -21,7 +19,13 @@ A curated collection of personal Polybar configuration themes, refined over time
 📁 [polybar-configs/Dark-platinum](polybar-configs/Dark-platinum)     
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e62fcfa8-7345-4834-be32-4af6100ddc29" />
 <img width="1710" height="719" alt="image" src="https://github.com/user-attachments/assets/fc14262d-3c90-4a1d-809c-1dc25f3d4316"/>
+<img width="1922" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fc4b4ab-10f4-409b-9532-9d1cf390a569" />
+<img width="3439" height="1440" alt="image" src="https://github.com/user-attachments/assets/b58f2367-91a7-44b4-874a-d8b9e5c01aee" />
+
+
+
 
 ## 🛠 Dependencies
 Tailored for Arch Linux (via AUR or official repos). Install with `pacman` or `yay`.
